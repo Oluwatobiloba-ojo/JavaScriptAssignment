@@ -9,3 +9,5 @@ var obj = {
 for (const element in obj) {
     console.log(obj[element]);
 }
+
+//seen
